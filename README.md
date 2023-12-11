@@ -1,4 +1,4 @@
-# Omdena - Early Detection and Diagnosis of Alzheimer's Disease through Brain Scan Analysis
+# Early Detection and Diagnosis of Alzheimer's Disease through Brain Scan Analysis
 ​
 <Small summary of the project>
 ​
