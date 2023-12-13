@@ -1,6 +1,11 @@
 # Early Detection and Diagnosis of Alzheimer's Disease through Brain Scan Analysis
 ​
 <Small summary of the project>
+
+## Background
+Brain-related disorders, such as Alzheimer’s disease, Parkinson’s disease, and Multiple Sclerosis, are a growing global concern. As per the World Health Organization, neurological disorders are responsible for 9% of all deaths globally, and Alzheimer’s and other dementias alone are among the top ten leading causes of death worldwide.
+
+With a rapidly aging population, these numbers are expected to rise significantly over the coming years. Despite significant advances in medical technology, early detection and accurate diagnosis of these conditions remain challenging. Traditionally, the diagnosis of these disorders has been based on clinical assessments and symptoms. However, these methods are often subjective and may not detect the disease until it has significantly progressed.
 ​
 ## Demo
 ​
