@@ -8,6 +8,7 @@ Brain-related disorders, such as Alzheimer’s disease, Parkinson’s disease, a
 
 With a rapidly aging population, these numbers are expected to rise significantly over the coming years. Despite significant advances in medical technology, early detection and accurate diagnosis of these conditions remain challenging. Traditionally, the diagnosis of these disorders has been based on clinical assessments and symptoms. However, these methods are often subjective and may not detect the disease until it has significantly progressed.
 
+
 ​## Problem
 
 The goal of this project is to leverage the power of artificial intelligence, specifically machine learning and computer vision techniques, to analyze brain scan images for the early detection and diagnosis of Alzheimer’s disease, Parkinson’s disease, and Multiple Sclerosis.
