@@ -3,10 +3,18 @@
 <Small summary of the project>
 
 ## Background
+
 Brain-related disorders, such as Alzheimer’s disease, Parkinson’s disease, and Multiple Sclerosis, are a growing global concern. As per the World Health Organization, neurological disorders are responsible for 9% of all deaths globally, and Alzheimer’s and other dementias alone are among the top ten leading causes of death worldwide.
 
 With a rapidly aging population, these numbers are expected to rise significantly over the coming years. Despite significant advances in medical technology, early detection and accurate diagnosis of these conditions remain challenging. Traditionally, the diagnosis of these disorders has been based on clinical assessments and symptoms. However, these methods are often subjective and may not detect the disease until it has significantly progressed.
-​
+
+​## Problem
+
+The goal of this project is to leverage the power of artificial intelligence, specifically machine learning and computer vision techniques, to analyze brain scan images for the early detection and diagnosis of Alzheimer’s disease, Parkinson’s disease, and Multiple Sclerosis.
+
+Our aim is to create an AI model that can analyze these images, identify patterns that may be indicative of these disorders, and make predictions with high accuracy. The expectation is that such a tool could supplement existing diagnostic practices, providing a more objective and potentially earlier indication of these diseases. We believe that an accurate and efficient AI diagnostic tool can significantly improve the prognosis and quality of life for millions of patients globally.
+
+
 ## Demo
 ​
 Once the project is deployed, put the demo link here.
