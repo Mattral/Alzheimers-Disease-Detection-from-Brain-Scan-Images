@@ -2,6 +2,12 @@
 ​
 <Small summary of the project>
 
+# Introduction
+Alzheimer's disease is a complex neurodegenerative disorder that affects millions of people worldwide. Early detection and prediction of Alzheimer's can lead to better management and treatment outcomes. This prediction system utilizes a machine learning model trained on a dataset of relevant features to provide predictions about the likelihood of Alzheimer's disease.
+
+# About Alzheimer's Disease
+Alzheimer's disease (AD) is a progressive neurodegenerative disease. Though best known for its role in declining memory function, symptoms also include: difficulty thinking and reasoning, making judgements and decisions, and planning and performing familiar tasks. It may also cause alterations in personality and behavior. The cause of AD is not well understood. There is thought to be a significant hereditary component. For example, a variation of the APOE gene, APOE e4, increases risk of Alzheimer's disease.
+
 # Background
 
 Brain-related disorders, such as Alzheimer’s disease, Parkinson’s disease, and Multiple Sclerosis, are a growing global concern. As per the World Health Organization, neurological disorders are responsible for 9% of all deaths globally, and Alzheimer’s and other dementias alone are among the top ten leading causes of death worldwide.
