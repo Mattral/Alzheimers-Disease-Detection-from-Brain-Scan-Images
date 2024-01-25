@@ -1,7 +1,6 @@
 import streamlit as st
 import requests
 
-
 def predict_image(image):
     url = 'https://srastog-alzheimer-detection.hf.space/predict'
     files = {'file': image}
