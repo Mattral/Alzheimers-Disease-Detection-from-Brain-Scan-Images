@@ -95,9 +95,9 @@ CONTRIBUTORS = """
             <td>John Doe</td>
         </tr>
         <tr>
-            <td>John Doe</td>
-            <td>John Doe</td>
-            <td>John Doe</td>
+            <td>Min Htet Myet</td>
+            <td>Min Htet Myet</td>
+            <td>Min Htet Myet</td>
         </tr>
         <tr>
             <td>John Doe</td>
@@ -105,9 +105,9 @@ CONTRIBUTORS = """
             <td>John Doe</td>
         </tr>
         <tr>
-            <td>John Doe</td>
-            <td>John Doe</td>
-            <td>John Doe</td>
+            <td>Min Htet Myet</td>
+            <td>Min Htet Myet</td>
+            <td>Min Htet Myet</td>
         </tr>
         <tr>
             <td>John Doe</td>
@@ -115,9 +115,9 @@ CONTRIBUTORS = """
             <td>John Doe</td>
         </tr>
         <tr>
-            <td>John Doe</td>
-            <td>John Doe</td>
-            <td>John Doe</td>
+            <td>Min Htet Myet</td>
+            <td>Min Htet Myet</td>
+            <td>Min Htet Myet</td>
         </tr>
         <tr>
             <td>John Doe</td>
