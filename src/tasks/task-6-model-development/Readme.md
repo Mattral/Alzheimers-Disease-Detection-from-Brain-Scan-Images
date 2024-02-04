@@ -1,4 +1,4 @@
-            # Alzheimer's Image Classification
+# Alzheimer's Image Classification
 
 This project focuses on building a deep learning model for the classification of Alzheimer's disease using an image dataset with four classes. The code includes data preprocessing, augmentation, and a custom neural network architecture optimized using Keras Tuner.
 Table of Contents
